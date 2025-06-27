@@ -1,7 +1,7 @@
 import Image from "next/image";
-import Button from "@/components/button";
-import UserProfileIcon from "@/components/userProfile";
-import SecondaryButton from "@/components/secondaryButton";
+import Button from "@/components/ui/button";
+import UserProfileIcon from "@/components/ui/userProfile";
+import SecondaryButton from "@/components/ui/secondaryButton";
 
 export default function Home() {
   return (
