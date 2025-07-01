@@ -12,6 +12,9 @@ const bricolage = Bricolage_Grotesque({
 export const metadata: Metadata = {
   title: 'Bookmaarks',
   description: 'AI-powered bookmark manager that auto-tags, summarizes, and sorts — so you dont have to.',
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({
